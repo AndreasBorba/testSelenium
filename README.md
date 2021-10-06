@@ -1,3 +1,3 @@
-### Iniciando mais um projeto com Selenium
+### Projeto com Selenium
 
 Atividade para relembrar testes automatizados com Selenium.
